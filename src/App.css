@@ -15,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #288e9e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,10 +23,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: 'Grenze Gotisch', cursive;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #A5C21E;
   font-size: 1rem;
   letter-spacing: .8rem;
   font-weight: bold;
